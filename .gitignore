@@ -9,3 +9,5 @@
 *.gen
 .deps
 flashapp/xsvf.inc
+*~
+
